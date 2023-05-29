@@ -256,6 +256,14 @@ We are using plain `CSS` for this project and you can find that in the `docs/css
     <sub>Example 2</sub>
   </a>
 </td>
+<!-- Start of column-3 -->
+<td>
+  <a href="https://ar-portfoliohtml.netlify.app/">
+    <img src="https://github.com/Arshdeep-13/portfolio-html/assets/108752646/06068436-cfbb-403b-89fb-a64271b782be" width="100px" height="75px"> <br/>
+    <sub>Example 3</sub>
+  </a>
+</td>
+<!-- End of column-3 -->
 </tr>
 </table>
 
